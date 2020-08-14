@@ -1,0 +1,91 @@
+header {
+  display: flex;
+  margin: 3em;
+
+
+}
+
+#One {
+  order: 1;
+}
+
+#Two {
+  order: 2;
+  
+}
+#blank {
+  order: 2;
+  flex-grow: 3;
+}
+
+#Three {
+  order: 3;
+  margin: 1px;
+
+}
+
+#Four {
+  order: 4;
+  border: 1px;
+  margin: 1px;
+}
+
+#Five {
+  order: 5;
+  margin: 1px;
+}
+
+#Six {
+  order: 6;
+  margin: 1px;
+}
+
+#Seven {
+  order: 7;
+  margin: 1px;
+}
+
+#Eight {
+  order: 8;
+  margin: 1px;
+}
+
+#Nine {
+  order: 9;
+  margin: 1px;
+}
+
+#Ten  {
+  order: 10;
+  margin: 1px;
+}
+
+h2 {
+font-family: cursive;
+font-size: 30px; 
+width: 100%;
+}
+
+body {
+  
+  margin: 5em;
+
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#pizza {
+  text-align: center;
+  height: 400px; width: auto;
+}
+
+#word {
+  width: 400px;
+  text-align: center;
+}
